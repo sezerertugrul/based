@@ -5,3 +5,4 @@ base test
 4. gün geçiken zaman
 Tamamlanmayan
 beklemede
+test ayarsızlığı

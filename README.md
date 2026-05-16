@@ -6,3 +6,4 @@ base test
 Tamamlanmayan
 beklemede
 test ayarsızlığı
+Bakım çalışmıyordu

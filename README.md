@@ -7,3 +7,4 @@ Tamamlanmayan
 beklemede
 test ayarsızlığı
 Bakım çalışmıyordu
+devam eden konytroller

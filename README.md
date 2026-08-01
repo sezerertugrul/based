@@ -9,3 +9,4 @@ test ayarsızlığı
 Bakım çalışmıyordu
 devam eden konytroller
 bakım çalışması tekrarı
+sorunu anlayamadım

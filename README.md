@@ -11,3 +11,4 @@ devam eden konytroller
 bakım çalışması tekrarı
 sorunu anlayamadım
 düzeltmeler başarısız oluyor
+bazı şeyleri tekrarlamam gerekecek

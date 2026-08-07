@@ -15,3 +15,4 @@ bazı şeyleri tekrarlamam gerekecek
 yeni bir test zinciri oluşturacağım
 tekrarlanacak
 DEnemelere devam ediyorum
+Bu deneme başarısız tekrarlanacak

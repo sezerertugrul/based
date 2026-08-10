@@ -18,3 +18,4 @@ DEnemelere devam ediyorum
 Bu deneme başarısız tekrarlanacak
 Tekrarlanan deneme
 DEvam ediyor
+tekrarlanıyor

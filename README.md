@@ -19,3 +19,4 @@ Bu deneme başarısız tekrarlanacak
 Tekrarlanan deneme
 DEvam ediyor
 tekrarlanıyor
+tekrar başlanacak

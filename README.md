@@ -20,3 +20,4 @@ Tekrarlanan deneme
 DEvam ediyor
 tekrarlanıyor
 tekrar başlanacak
+tekrarlama başladı 1. gün

@@ -24,3 +24,4 @@ tekrarlama başladı 1. gün
 tekrarlama 2. gün
 tekranlanmaya devam
 öncelikler saptanıyor
+son tekrar

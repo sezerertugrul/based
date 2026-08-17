@@ -25,3 +25,4 @@ tekrarlama 2. gün
 tekranlanmaya devam
 öncelikler saptanıyor
 son tekrar
+bugün tekrar 

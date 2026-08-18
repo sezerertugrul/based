@@ -26,3 +26,4 @@ tekranlanmaya devam
 öncelikler saptanıyor
 son tekrar
 bugün tekrar 
+hata tesbiti için denemeler devam ediyor

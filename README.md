@@ -27,3 +27,4 @@ tekranlanmaya devam
 son tekrar
 bugün tekrar 
 hata tesbiti için denemeler devam ediyor
+deneme tekrarı devam ediyor

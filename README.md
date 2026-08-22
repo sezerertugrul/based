@@ -30,3 +30,4 @@ hata tesbiti için denemeler devam ediyor
 deneme tekrarı devam ediyor
 tekrartlar devam ediyor
 deneysel geri sayım
+son kontroller

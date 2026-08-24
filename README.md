@@ -32,3 +32,4 @@ tekrartlar devam ediyor
 deneysel geri sayım
 son kontroller
 Devam eden kontrol
+devam

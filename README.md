@@ -33,3 +33,4 @@ deneysel geri sayım
 son kontroller
 Devam eden kontrol
 devam
+Bugün tekrarlandı

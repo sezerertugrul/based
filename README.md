@@ -34,3 +34,4 @@ son kontroller
 Devam eden kontrol
 devam
 Bugün tekrarlandı
+bakıyorum tekrar kodlarına

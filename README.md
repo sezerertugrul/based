@@ -35,3 +35,4 @@ Devam eden kontrol
 devam
 Bugün tekrarlandı
 bakıyorum tekrar kodlarına
+kod kontrolu

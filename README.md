@@ -37,3 +37,4 @@ Bugün tekrarlandı
 bakıyorum tekrar kodlarına
 kod kontrolu
 kontrola devam
+başlangıç

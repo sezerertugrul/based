@@ -38,3 +38,4 @@ bakıyorum tekrar kodlarına
 kod kontrolu
 kontrola devam
 başlangıç
+tekrarlanan blok

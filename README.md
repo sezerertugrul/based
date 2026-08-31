@@ -39,3 +39,4 @@ kod kontrolu
 kontrola devam
 başlangıç
 tekrarlanan blok
+Devam ediyor

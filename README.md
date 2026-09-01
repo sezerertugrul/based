@@ -40,3 +40,4 @@ kontrola devam
 başlangıç
 tekrarlanan blok
 Devam ediyor
+devam eden kontroller var

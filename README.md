@@ -41,3 +41,4 @@ başlangıç
 tekrarlanan blok
 Devam ediyor
 devam eden kontroller var
+yeni uygulamalar ekleniyor

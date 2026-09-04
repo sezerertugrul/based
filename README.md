@@ -43,3 +43,4 @@ Devam ediyor
 devam eden kontroller var
 yeni uygulamalar ekleniyor
 test tekrarlanacak
+devam eden sorun

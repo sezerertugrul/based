@@ -44,3 +44,4 @@ devam eden kontroller var
 yeni uygulamalar ekleniyor
 test tekrarlanacak
 devam eden sorun
+enbaştan genel kontrol yapılacak

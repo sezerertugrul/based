@@ -45,3 +45,4 @@ yeni uygulamalar ekleniyor
 test tekrarlanacak
 devam eden sorun
 enbaştan genel kontrol yapılacak
+kontrol devam ediyor

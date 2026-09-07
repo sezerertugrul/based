@@ -46,3 +46,4 @@ test tekrarlanacak
 devam eden sorun
 enbaştan genel kontrol yapılacak
 kontrol devam ediyor
+olumlu gelişme oldu beklemedeyim

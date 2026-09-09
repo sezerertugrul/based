@@ -48,3 +48,4 @@ enbaştan genel kontrol yapılacak
 kontrol devam ediyor
 olumlu gelişme oldu beklemedeyim
 devam eden süreç
+balıma alınacak

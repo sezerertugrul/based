@@ -50,3 +50,4 @@ olumlu gelişme oldu beklemedeyim
 devam eden süreç
 balıma alınacak
 sorunu bulamadım
+tekrar baştan kontrol başladı

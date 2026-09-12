@@ -51,3 +51,4 @@ devam eden süreç
 balıma alınacak
 sorunu bulamadım
 tekrar baştan kontrol başladı
+Bugün yeni kod yazılıyor

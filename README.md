@@ -52,3 +52,4 @@ balıma alınacak
 sorunu bulamadım
 tekrar baştan kontrol başladı
 Bugün yeni kod yazılıyor
+devam ediyor

@@ -54,3 +54,4 @@ tekrar baştan kontrol başladı
 Bugün yeni kod yazılıyor
 devam ediyor
 Bugün tekrarladım
+Tekrar yazım yapılıyor

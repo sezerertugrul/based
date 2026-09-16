@@ -55,3 +55,4 @@ Bugün yeni kod yazılıyor
 devam ediyor
 Bugün tekrarladım
 Tekrar yazım yapılıyor
+Bugün yazılıma devam edildi

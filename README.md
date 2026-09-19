@@ -58,3 +58,4 @@ Tekrar yazım yapılıyor
 Bugün yazılıma devam edildi
 Tekrarlanan bazı sutunlar yenilenecek
 Yenileme başladı
+yenileme 1. gün

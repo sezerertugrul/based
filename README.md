@@ -61,3 +61,4 @@ Yenileme başladı
 yenileme 1. gün
 2. gün yenileme
 yenilemeye devam edildi
+devam ediyor

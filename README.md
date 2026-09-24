@@ -63,3 +63,4 @@ yenileme 1. gün
 yenilemeye devam edildi
 devam ediyor
 ikinci deneme
+devam ediyor

@@ -65,3 +65,4 @@ devam ediyor
 ikinci deneme
 devam ediyor
 bakımda
+bakım devam ediyor

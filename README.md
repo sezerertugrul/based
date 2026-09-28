@@ -67,3 +67,4 @@ devam ediyor
 bakımda
 bakım devam ediyor
 bugün kontrolde
+kontrol devam ediyor

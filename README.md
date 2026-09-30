@@ -69,3 +69,4 @@ bakım devam ediyor
 bugün kontrolde
 kontrol devam ediyor
 bugün yeni kontrol var
+Kontrolda sorun oldu

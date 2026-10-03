@@ -72,3 +72,4 @@ bugün yeni kontrol var
 Kontrolda sorun oldu
 Tekranlanıyor
 bugün tekrarlandı 1
+Tekrarlama 2

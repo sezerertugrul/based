@@ -79,3 +79,4 @@ Tekrarlama başarısız yenilenecek
 yenileme başladı
 devam ediyor
 tekranlanmada
+bugün normal göründü

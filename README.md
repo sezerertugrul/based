@@ -81,3 +81,4 @@ devam ediyor
 tekranlanmada
 bugün normal göründü
 Herşey normal
+tekrar başlandı

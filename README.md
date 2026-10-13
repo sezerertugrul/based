@@ -82,3 +82,4 @@ tekranlanmada
 bugün normal göründü
 Herşey normal
 tekrar başlandı
+xwet deneme

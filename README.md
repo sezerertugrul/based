@@ -84,3 +84,4 @@ Herşey normal
 tekrar başlandı
 xwet deneme
 Denemeye devam
+devam ettim

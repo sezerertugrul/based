@@ -91,3 +91,4 @@ Tekrarlama 2. güm
 Tekrarlama3. gün
 kontrolu deneme
 tekrarı Bakıma başlayacağım
+yenileme zamanı

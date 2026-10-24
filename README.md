@@ -93,3 +93,4 @@ kontrolu deneme
 tekrarı Bakıma başlayacağım
 yenileme zamanı
 deneme kontrol
+yeni bişeyler ekleme

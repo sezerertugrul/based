@@ -102,3 +102,4 @@ satır deneme
 karmaşık yapı deneme
 şekil beklemek
 yeni bişeyler ekleme
+blok satır tekrarı

@@ -103,3 +103,4 @@ karmaşık yapı deneme
 şekil beklemek
 yeni bişeyler ekleme
 blok satır tekrarı
+son şekil beklemek

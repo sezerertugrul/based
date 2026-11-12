@@ -112,3 +112,4 @@ kahraman asker swayk
 son bakış deneme
 blok satır
 tekrarlanan
+yeni bişeyler ekleme

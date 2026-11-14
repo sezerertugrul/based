@@ -114,3 +114,4 @@ blok satır
 tekrarlanan
 yeni bişeyler ekleme
 kahramalar yanlız olmamalı
+onchain creativity
